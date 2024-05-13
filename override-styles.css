@@ -2,3 +2,11 @@ body.iframe-css .container-fluid {
     padding-left: 15px !important;
     padding-right: 15px !important;
 }
+
+.gift-voucher-checkout input.btn.btn-main {
+    background: red;
+}
+
+.gift-voucher-checkout #price3 > span:nth-child(2) {
+    background: red;
+}
