@@ -3,8 +3,8 @@ body.iframe-css .container-fluid {
     padding-right: 15px !important;
 }
 
-.gift-voucher-checkout input.btn.btn-main {
-    background: red;
+.gift-voucher-checkout .pricing .price {
+    background: red !important;
 }
 
 .gift-voucher-checkout #price3 > span:nth-child(2) {
