@@ -4,5 +4,10 @@ body.iframe-css .container-fluid {
 }
 
 .gift-voucher-checkout .pricing .price {
-    color: #292724;
+    color: #292724 !important;
+}
+
+.gift-voucher-checkout .btn.btn-main {
+background-color: coral ;
+background-image: none !important;
 }
