@@ -3,6 +3,10 @@ body.iframe-css .container-fluid {
     padding-right: 15px !important;
 }
 
+.gift_voucher_checkouts-controller .customer-header img {
+  display: none;
+}
+
 .gift-voucher-checkout .pricing .price {
     color: #292724 !important;
 }
